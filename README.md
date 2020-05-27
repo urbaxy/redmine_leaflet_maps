@@ -19,13 +19,10 @@ Tested only on Redmine version 3.4.
 
 ## Installation
 
-cd <redmine root>
-
-git clone https://github.com/urbaxy/redmine_leaflet_maps.git plugins/redmine_leaflet_maps
-
-bundle install
-
-apache2ctl graceful
+   cd <redmine root>
+   git clone https://github.com/urbaxy/redmine_leaflet_maps.git plugins/redmine_leaflet_maps
+   bundle install
+   apache2ctl graceful
 
 ## Upgrade
 
