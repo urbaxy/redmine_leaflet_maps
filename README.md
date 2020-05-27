@@ -17,21 +17,21 @@ Tested only on Redmine version 3.4.
 
 ## Installation
 
-cd <redmine root>  
+cd /usr/share/redmine  
 git clone https://github.com/urbaxy/redmine_leaflet_maps.git plugins/redmine_leaflet_maps  
 bundle install  
 apache2ctl graceful  
 
 ## Upgrade
 
-cd <redmine root>/plugins/redmine_leaflet_maps  
+cd /usr/share/redmine/plugins/redmine_leaflet_maps  
 git pull  
 bundle install  
 apache2ctl graceful  
 
 ## Uninstallation
 
-cd <redmine root>/plugins  
+cd /usr/share/redmine/plugins  
 rm -fr redmine_leaflet_maps  
 apache2ctl graceful  
 
