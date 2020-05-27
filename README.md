@@ -4,13 +4,11 @@ A macro which displays a Leaflet map with Openstreetmap tiles. Custom tileserver
 
 ## Usage
 
-{{leaflet_map(longitude, latitude, zoom)}}
-
+{{leaflet_map(longitude, latitude, zoom)}}  
 Shows a map with given center and zoom. Zoom is optional, default is 14.
 
 
-{{leaflet_marker(longitude, latitude, title)}}
-
+{{leaflet_marker(longitude, latitude, title)}}  
 Shows a marker on the map, title is optional. May be used multiple times.
 
 ## Redmine version support
