@@ -1,4 +1,4 @@
-# Redmine leaflet maps
+# Redmine Leaflet Maps
 
 A macro which displays a Leaflet map with Openstreetmap tiles. Custom tileservers are supported.
 
