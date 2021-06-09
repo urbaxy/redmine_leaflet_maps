@@ -11,6 +11,7 @@ Shows a map with given center and zoom. Zoom is optional, default is 14.
 {{leaflet_marker(longitude, latitude, title)}}  
 Shows a marker on the map, title is optional. May be used multiple times.
 
+
 {{leaflet_gpx(attachmentname)}}
 Shows tracks, routes and waypoints from an attached gpx file on the map. May be used multiple times.
 
