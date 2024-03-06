@@ -17,7 +17,7 @@ Shows tracks, routes and waypoints from an attached gpx file on the map. May be 
 
 ## Redmine version support
 
-Tested only on Redmine version 3.4.
+Successfully tested on Redmine version 3.4, 4.2, 5.0.
 
 ## Installation
 
